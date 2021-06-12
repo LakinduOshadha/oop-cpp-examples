@@ -30,3 +30,17 @@ Instances <see Examples.pdf>
 3. Write a program to print the sum, difference and product of two complex numbers by 
 creating a class named 'Complex' with member functions for each operation whose real and 
 imaginary parts are entered by the user
+  
+4. Create a class called Distance which accepts distance in feet and inches. Inches should be 
+in between 0 to 12. An overloaded constructor is available to set these properties and default
+values are zero for both feet and inches. Your class has the functionality to display the distance.
+Further extend your class to support operator “=” for Distance.  
+  
+A sample output is given below, 
+First Distance: Feet: 11   Inches: 10 
+Second Distance: Feet: 5     Inches: 11 
+ 
+After equaling the second distance to first distance: 
+First Distance: Feet: 5 	Inches: 11 
+ 
+
